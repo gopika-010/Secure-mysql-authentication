@@ -1,5 +1,7 @@
 # Secure-mysql-authentication
 A Python-based secure MySQL authentication utility using Fernet encryption for password protection and safe database connectivity.
+
+
 **Project Description:**
 This project demonstrates a secure and production-friendly approach to handling database passwords in Python applications.
 It includes:
@@ -10,6 +12,7 @@ It includes:
 ● Actual MySQL database connection using the decrypted password
 
 ● Clean modular code organization for real-world project structure
+
 
 **Tech Stack:**
 ●Language: Python 3
