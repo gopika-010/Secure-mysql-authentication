@@ -22,15 +22,11 @@ It includes:
 
 ●Database: MySQL
 
-●Libraries: 
-    ● cryptography - for encryption and decryption
-    ● mysql-connector-python - to connect to MySQL from python
-
 ●Libraries:
 
-○cryptography – for encryption and decryption
+○ cryptography – for encryption and decryption
 
-mysql-connector-python – to connect to MySQL from Python
+○ mysql-connector-python – to connect to MySQL from Python
 
 
 **Project Folder Structure:**
