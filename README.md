@@ -36,6 +36,7 @@ mysql-connector-python – to connect to MySQL from Python
 **Project Folder Structure:**
 
 secure-mysql-python/
+
 ├── password_utils.py     
 
 ├── encrypt.py              
