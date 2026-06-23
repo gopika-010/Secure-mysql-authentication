@@ -31,3 +31,12 @@ It includes:
 ○cryptography – for encryption and decryption
 
 mysql-connector-python – to connect to MySQL from Python
+
+
+**Project Folder Structure:**
+
+secure-mysql-python/
+├── password_utils.py         # Handles encryption, decryption, and secure password masking
+├── encrypt.py                # One-time script to encrypt your MySQL password
+├── mysql_connect.py          # Main script that connects to MySQL securely
+├── secret.key                # Auto-generated encryption key 
